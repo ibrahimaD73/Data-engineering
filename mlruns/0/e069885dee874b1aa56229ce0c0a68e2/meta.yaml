@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Data-engineering/mlruns/0/e069885dee874b1aa56229ce0c0a68e2/artifacts
+end_time: 1719071580660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e069885dee874b1aa56229ce0c0a68e2
+run_name: fearless-bird-127
+run_uuid: e069885dee874b1aa56229ce0c0a68e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719071578298
+status: 4
+tags: []
+user_id: codespace
